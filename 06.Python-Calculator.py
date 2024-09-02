@@ -1,7 +1,7 @@
 # Python calculator
 
 operator = input("Enter an operator (+ * - /):")
-num1 = float(input("Enter the 1st number: "))
+num1 = float(input("Enter the 1st number: "))            # without float the result will be a string
 num2 = float(input("Enter the 2nd number: "))
 
 if operator == "+":

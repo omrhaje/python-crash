@@ -1,27 +1,27 @@
 # Math calcs
 
 friends = 10
-additions   +
+# additions   +
 friends = friends + 1
 friends += 1
 
-subtraction   -
+# subtraction   -
 friends = friends - 2
 friends -= 2
 
-multiplication   *
+# multiplication   *
 friends = friends * 3
 friends *= 3
 
-division   /
+# division   /
 friends = friends / 3
 friends /= 3
 
-exponential **
+# exponential **
 friends = friends ** 2
 friends **= 2
 
-modulus
+# modulus
 remainder = friends % 3
 
 print(remainder)
@@ -37,7 +37,7 @@ result = max(x, y, z)         # The highest value
 result = min(x, y, z)         # The lowest value
 print(result)
 
-
+omar = 'ki'
 # --------------------------------------------------------------
 
 import math
@@ -47,17 +47,17 @@ x = 9.9
 print(math.pi)
 print(math.e)
 
-square route function
+# square route function
 result = math.sqrt(x)
 
-.ceil will round up
+# .ceil will round up
 result = math.ceil(x)
-.floor will round down
+# .floor will round down
 result = math.floor(x)
 print(result)
 
 
-Math exercise (radius)
+# Math exercise (radius)
 import math
 
 radius = float(input('Enter the radius of a circle: '))
