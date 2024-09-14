@@ -5,7 +5,7 @@
 
 # Default Arguments
 
-# • A paramete could have a default value
+# • A parameter could have a default value
 # • This could be useful to not having to declare the parameter each time, and having a default value for it.
 
 # • Non default values come before default values
