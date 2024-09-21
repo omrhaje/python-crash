@@ -23,7 +23,7 @@ student = input("Enter a name of a student: ")
 
 if student.capitalize() not in students:
     print(f"{student} is not a student")
- else:
+else:
      print(f"{student} is a student")
 
 
@@ -32,16 +32,16 @@ if student.capitalize() not in students:
 
 # Dictionary
 
- grades = {"Sandy": "A",
+grades = {"Sandy": "A",
            "Spongebob": "C",
            "Squidward": "B",
            "Patrick": "F"}
 
- student = input("Enter the name of a student: ")
+student = input("Enter the name of a student: ")
 
- if student in grades:
+if student in grades:
      print(f"{student}'s grade is {grades[student]}")
- else:
+else:
      print(f"{student} was not found")
 
 
